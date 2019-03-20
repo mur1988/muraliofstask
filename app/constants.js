@@ -1,0 +1,15 @@
+/**
+ * Created by saionara1 on 6/22/17.
+ */
+
+export const SEARCH_ACTION = "Search";
+export const SEARCH_SUCCESS = "SEARCH_SUCESS";
+export const SEARCH_ERROR = "SEARCH_ERROR";
+export const SEARCH_SERVER_ERROR = "SEARCH_SERVER_ERROR";
+export const PROGRESS = "PROGRESS";
+
+
+
+export const ACTION_HOME_DEFAULT_LIST = "ACTION_HOME_DEFAULT_LIST";
+export const ACTION_HOME_DEFAULT_LIST_ERROR = "ACTION_HOME_LIST_ERROR";
+export const ACTION_HOME_DEFAULT_LIST_SUCCESS = "ACTION_HOME_LIST_SUCCESS";
